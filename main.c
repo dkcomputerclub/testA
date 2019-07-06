@@ -7,7 +7,6 @@ void miyake(){
 
 
 int main(){
-  printf("uemae\n");
-	printf("miyake\n");
+	miyake();
 	return 0;
 }
